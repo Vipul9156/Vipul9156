@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vipul kandge
+-  I'm from Pune
 - 👀 I’m interested in sports and travelling
 - 🌱 I’m currently learning Full stack development
 
